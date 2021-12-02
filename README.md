@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- - 🔭 I’m currently studing on  **``Madan Bhandari Memorial College``** 
 - - 💬 Ask me about _**python**_ and _**my studies**_
 - - 📫 How to reach me: **``rupeshrnepal@gmail.com``**  
