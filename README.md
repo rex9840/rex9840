@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- - 💬 Ask me about _**python**_ and _**my studies**_
-- - 📫 How to reach me: **``rupeshrnepal@gmail.com``**  
+- 💬 Ask me about _**python**_ and _**my studies**_
+- 📫 How to reach me: [Rupesh Nepal](https://www.linkedin.com/in/rupesh-nepal-62693920b/)  
+- 📮  Mail me through : ```rupeshrnepal@gmail.com```
