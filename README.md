@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💬 Ask me about _**python**_ and _**my studies**_
+- 🌱 I’m currently : *Searching for a path to walk on* 
+- 📌 Who am i :  *Just a learner lurking in the feild of computer science* 
 - 📫 How to reach me: [Rupesh Nepal](https://www.linkedin.com/in/rupesh-nepal-62693920b/)  
-- 📮  Mail me through : ```rupeshrnepal@gmail.com```
+
+
+
+[![my github stat ](https://github-readme-stats.vercel.app/api?username=rex9840&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/rex9840)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rex9840&layout=compact)](https://github.com/rex9840)
+
