@@ -7,7 +7,7 @@
 
 <h5><b> How to reach me  :</b> </h5>
 
-[![Facebook](ReadME\rex9840\images\facebook.svg)](https://www.facebook.com/rupesh.nepal.5099) []() []() 
+[![Facebook](ReadME\rex9840\images\facebook.png)](https://www.facebook.com/rupesh.nepal.5099) []() []() 
 
 
 
