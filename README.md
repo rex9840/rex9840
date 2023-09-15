@@ -5,7 +5,7 @@
 
 
 - 💡 I’m currently : *Working in myself and people around me.* 
-- 📚 Who am i :  *geek programmer with a unique flare *😉 
+- 📚 Who am i :  *geek programmer with a unique flare*😉 
 
 
 <h4 align = "center"> Connect with me :</h4>
