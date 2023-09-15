@@ -4,8 +4,8 @@
 
 
 
-- 💡 I’m currently : *Searching for a path to walk on* 
-- 📚 Who am i :  *Just a learner lurking in the field of computer science* 
+- 💡 I’m currently : *Working in myself and people around me.* 
+- 📚 Who am i :  *geek programmer with a unique flare 😉* 
 
 
 <h4 align = "center"> Connect with me :</h4>
