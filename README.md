@@ -1,6 +1,6 @@
 <h1 align= "center" > <img src= "https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt=👋> Hi there! Its me Rupesh Nepal
-<p allign = "center"><b><& Problem->Solver++></b></h2></p>
-
+<p allign = "center"><b>*(&dyn Problem->Solver++)</b></p>
+</h1>
 
 
 
