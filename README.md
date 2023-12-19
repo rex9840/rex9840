@@ -9,7 +9,6 @@
 
 - 💫 I’m currentlyWorking on **myself and people around me.**
 - 🔎  Who am i **geek programmer with a unique flare** 😉
--  💫 I’m looking to collaborate on **Projects that meets intrest and vision**
 - 📫 How to reach me **contact.rupesh.nepal@gmail.com**
 
 
