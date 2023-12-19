@@ -1,17 +1,44 @@
 <h1 align= "center" > <img src= "https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt=👋> Hi there! Its me Rupesh Nepal
-<p allign = "center"><b><& Problem->Solver++></b></h2>
+<p allign = "center"><b><& Problem->Solver++></b></h2></p>
+
+
+<div >
+<ul>
+  <li>💫 I’m currently working on <strong>myself and people around me.</strong></li>
+  <li>🔎 Who am I? <strong>Geek programmer with a unique flare</strong> 😉</li>
+  <li>💫 I’m looking to collaborate on <strong>Projects that meet interest and vision</strong></li>
+  <li>📫 How to reach me <strong>contact.rupesh.nepal@gmail.com</strong></li>
+</ul>
+
+
+<br clear="both">
+<img align="right" height="300" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif"  />
+
+</div>
+<h3 align="left">Languages and Tools:</h3>
+<div align="center",height>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo"  />
+</div>
 
 
 
-
-
-- 💫 I’m currentlyWorking on **myself and people around me.**
-- 🔎  Who am i **geek programmer with a unique flare** 😉
--  💫 I’m looking to collaborate on **Projects that meets intrest and vision**
-- 📫 How to reach me **contact.rupesh.nepal@gmail.com**
-
-
-<h4 align = "center"> Connect with me :</h4>
+<h3 align = "center"> Connect with me :</h4>
 
 <div align="center">
   <a href = "https://www.linkedin.com/in/rupesh-nepal-62693920b/"> 
@@ -29,46 +56,11 @@
 
 
 
-
-
- 
-
-
  ---- 
-
-<a href = "https://github.com/rex9840"><img src= "https://github-readme-stats.vercel.app/api?username=rex9840&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true"  align = "left "><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rex9840&layout=compact" align = "center " height =193></a>
-<img src="https://streak-stats.demolab.com?user=rex9840&locale=en&mode=daily&theme=dgruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-
-
-
-
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif"  />
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rex9840&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rex9840&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rex9840&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
@@ -77,6 +69,9 @@
 
 <img src="https://raw.githubusercontent.com/rex9840/rex9840/output/snake.svg" alt="Snake animation" />
 
+
+
+<br clear="both">
 
 
 
