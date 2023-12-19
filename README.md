@@ -2,19 +2,17 @@
 <p allign = "center"><b><& Problem->Solver++></b></h2></p>
 
 
-<div >
-<ul>
-  <li>💫 I’m currently working on <strong>myself and people around me.</strong></li>
-  <li>🔎 Who am I? <strong>Geek programmer with a unique flare</strong> 😉</li>
-  <li>💫 I’m looking to collaborate on <strong>Projects that meet interest and vision</strong></li>
-  <li>📫 How to reach me <strong>contact.rupesh.nepal@gmail.com</strong></li>
-</ul>
 
 
-<br clear="both">
-<img align="right" height="300" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif"  />
+<img align="right" height="300" breadth = "auto" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif"  />
 
-</div>
+
+- 💫 I’m currentlyWorking on **myself and people around me.**
+- 🔎  Who am i **geek programmer with a unique flare** 😉
+-  💫 I’m looking to collaborate on **Projects that meets intrest and vision**
+- 📫 How to reach me **contact.rupesh.nepal@gmail.com**
+
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="center",height>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
