@@ -1,15 +1,15 @@
 <h1 align= "center" > <img src= "https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt=👋> Hi there! Its me Rupesh Nepal
 <p allign = "center"><b>*(&dyn Problem->Solver++)</b></p>
-</h1>
+</h1> 
 
 
 
 <img align="right" height="300" breadth = "auto" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif"  />
 
 
-- 💫 I’m currentlyWorking on **myself and people around me.**
-- 🔎  Who am i **geek programmer with a unique flare** 😉
-- 📫 How to reach me **contact.rupesh.nepal@gmail.com**
+- 💫 I’m currentlyWorking on **myself and people around me**  :shipit:
+- 🔎  Who am i **geek programmer with a unique flare**  😉
+- 📫 How to reach me **contact.rupesh.nepal@gmail.com**  📧 
 
 
 <h3 align="left">Languages and Tools:</h3>
