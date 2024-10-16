@@ -1,9 +1,11 @@
 
 # About me :shipit:
 
-<code>
-I am Rupesh Nepal a dynamic problem solver with a passion for tackling challenges and finding innovative solutions
-</code> 
+```
+Name : Rupesh Nepal 
+Role : problem solver 
+Location : Kathmandu, Nepal 
+```
 
 
 # 🌐 Socials
