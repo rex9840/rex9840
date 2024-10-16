@@ -1,20 +1,13 @@
 
-<div style="display: flex; margin: 0; padding: 0;">
-<div style="margin: 0; padding: 0;">
-<img style="height: 300px; width: auto; display: block; margin: 0;" src="./assets/profile.png" />
-</div>
-<div style="margin-left: 20px;">
+# About me :shipit:
+
 <pre>
-<code> 
+<code>
+Welcome to my GitHub profile! 👋 
 
-**Name** : Rupesh Nepal 
-
-**working on**  : solving problems and learning new things 
-
+I am Rupesh Nepal a dynamic problem solver with a passion for tackling challenges and finding innovative solutions
 </code> 
 </pre> 
-</div> 
-</div>
 
 
 # 🌐 Socials
