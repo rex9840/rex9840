@@ -1,13 +1,9 @@
 
 # About me :shipit:
 
-<pre>
 <code>
-Welcome to my GitHub profile! 👋 
-
 I am Rupesh Nepal a dynamic problem solver with a passion for tackling challenges and finding innovative solutions
 </code> 
-</pre> 
 
 
 # 🌐 Socials
