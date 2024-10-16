@@ -1,11 +1,21 @@
 
 # About me :shipit:
 
-<div style="font-family: monospace;">
-    <strong>Name:</strong> Rupesh Nepal<br>
-    <strong>Role:</strong> Problem Solver<br>
-    <strong>Location:</strong> Kathmandu, Nepal
-</div>
+
+🔎 Name: Rupesh Nepal  
+
+🌟 Role: Problem Solver and a software engineers
+
+📍 Location: Kathmandu, Nepal
+
+📚 Education : Bachelors in Science Computer Science and Information Technology  
+
+💡 Interests : problem solving, automation , algorithms , web development, open source 
+
+💬 Languages : English, Nepali 
+
+
+
 
 
 # 🌐 Socials
