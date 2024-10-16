@@ -1,11 +1,11 @@
 
 # About me :shipit:
 
-```
-Name : Rupesh Nepal 
-Role : problem solver 
-Location : Kathmandu, Nepal 
-```
+<div style="font-size: 20px; font-family: monospace; color: #333;">
+    <strong style="color: #D14836;">Name:</strong> Rupesh Nepal<br>
+    <strong style="color: #D14836;">Role:</strong> Problem Solver<br>
+    <strong style="color: #D14836;">Location:</strong> Kathmandu, Nepal
+</div>
 
 
 # 🌐 Socials
