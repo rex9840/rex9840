@@ -21,7 +21,7 @@
 # 🌐 Socials
 
 <div style="margin-bottom: 20px;">
-<a href=" https://www.linkedin.com/in/rupesh-nepal-62693920b/">
+<a href="https://www.linkedin.com/in/rupesh-nepal-62693920b/">
 <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "rupesh-nepal-62693920b">
 </a>
 
